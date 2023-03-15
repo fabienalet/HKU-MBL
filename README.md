@@ -4,7 +4,7 @@
 
 [Hong Kong Computational and Theoretical Physics Study Group 2023](https://quantummc.xyz/study-group/)
 
-Cargese School, March 17th -29th, 2023
+March 17th -29th, 2023
 
 Fabien Alet (fabien.alet@cnrs.fr)
 
