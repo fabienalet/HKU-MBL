@@ -1,0 +1,8 @@
+-L 16
+-Sz 0
+-disorder 5.0
+-seed 3
+
+-measure_imbalance 1
+-measure_entanglement 1
+

@@ -1,0 +1,17 @@
+-L 16
+-Sz 0
+-disorder 5.0
+-seed 3
+
+-eps_nev 50
+-eps_type krylovschur
+#-eps_type lanczos
+#-eps_type arnoldi
+
+-st_type sinvert
+-st_pc_factor_mat_solver_type strumpack
+-st_pc_type lu
+#-mat_strumpack_verbose
+-mat_strumpack_colperm 0
+-measure_entanglement 1
+
