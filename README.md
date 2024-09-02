@@ -37,4 +37,4 @@ There are also three C++ codes that you should be able to use to perform large s
 
 # Notes
 
-There is a draft of lectures notes,  prepared for schools in Les Houches in 2019, and Cargese in 2022. They have been slightly refreshed and adapted for the study group. They will be further reshaped and updated in summer 2023. Stay tuned!
+There is a draft of lectures notes,  prepared for schools in Les Houches in 2019, and Cargese in 2022. They have been slightly refreshed and adapted for the study group. They will be further reshaped and updated in summer 2024. Stay tuned!
